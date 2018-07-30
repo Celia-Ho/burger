@@ -14,7 +14,7 @@ The Eat-Da-Burger! application is a burger logger created with MySQL, Node, Expr
 
 ## Deployment to Heroku
 
-The Eat-Da-Burger! application can be found [here]( ).
+The Eat-Da-Burger! application can be found [here](https://limitless-dusk-88002.herokuapp.com/).
 
 ## Getting Started
 
