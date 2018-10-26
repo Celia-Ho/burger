@@ -30,6 +30,12 @@ The Eat-Da-Burger! application can be found [here](https://limitless-dusk-88002.
 
 
 
+## Tools/languages used:  
+
+MySQL, Sequelize, Materialize, Express.js, Node.js, Handlebars.js, Heroku, JavaScript, CSS, HTML, Git
+
+
+
 
 
 	
